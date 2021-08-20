@@ -10,12 +10,15 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: In my free time when I am not coding, I am focusing on my graffiti and street inspired art.
 
-### Find Me:
+### 🔭 Find Me:
 
-http://stevensemco.com/
+Portfolio Website:
 
-[![linkedin](https://user-images.githubusercontent.com/83781116/130246722-95f7cd60-0097-411b-b47c-d7c757f6a9d4.png)][1]
+[![spray](https://user-images.githubusercontent.com/83781116/130292752-20668f37-1486-41e4-bd61-e9e7bf38d941.png)][1]
 
+Indeed:
+
+[![linkedin](https://user-images.githubusercontent.com/83781116/130246722-95f7cd60-0097-411b-b47c-d7c757f6a9d4.png)][2]
 
 
 
@@ -23,7 +26,8 @@ http://stevensemco.com/
 
 Stats Card by: https://github.com/anuraghazra/github-readme-stats
 
-[1]: https://www.linkedin.com/in/stevensemco/
+[1]: http://stevensemco.com/
+[2]: https://www.linkedin.com/in/stevensemco/
 
 
 
