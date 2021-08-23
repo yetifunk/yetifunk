@@ -16,7 +16,7 @@ Portfolio Website:
 
 [![spray](https://user-images.githubusercontent.com/83781116/130292752-20668f37-1486-41e4-bd61-e9e7bf38d941.png)][1]
 
-Indeed:
+LinkedIn
 
 [![linkedin](https://user-images.githubusercontent.com/83781116/130246722-95f7cd60-0097-411b-b47c-d7c757f6a9d4.png)][2]
 
